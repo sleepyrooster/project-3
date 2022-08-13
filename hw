@@ -1,2 +1,4 @@
 printf "/nhelloworld"
 printf 'asdf qwerty'
+## race care
+>>>>>>> refs/remotes/origin/main
